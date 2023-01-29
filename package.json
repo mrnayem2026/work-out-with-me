@@ -1,0 +1,17 @@
+{
+  "name": "work-out-with-me",
+  "version": "1.0.0",
+  "description": "Workout with me Gym web site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mostafizru Rahman Nayem",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "daisyui": "^2.49.0"
+  }
+}
